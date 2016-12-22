@@ -14,8 +14,6 @@ class Line{
 
 	}
 
-
-
 	public Line(int sX,int sY,int cX,int cY)
 	{
 		startX=sX;
@@ -63,8 +61,5 @@ class Line{
 		return currentY;
 
 	}	
-
-
-
 
 }
