@@ -165,7 +165,7 @@ public class DrawLinesVect extends Applet implements Runnable, MouseListener, Mo
      * this function paint the Applet each time called
      *
      * @param g the graphics to paint with
-     * @see Applet -> paint() for more informations
+     * 
      */
     public void paint(Graphics g) {
         int width, height, pointVectorS;
